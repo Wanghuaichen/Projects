@@ -1,0 +1,1 @@
+A auto-driving robot which can localizate itself by sensing the wall at first. Then it can drive to the target area with block detection and avoidance trhough a supersonic sensor. Finally it can find a foam in a certain color and pick it up through a color sensor.

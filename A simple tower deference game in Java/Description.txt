@@ -1,0 +1,1 @@
+A pure JAVA project using jswing to design the GUI. In the games, critters are auto-created in the spwaning spot and marching to the destination. Towers are built by users to prevent them from reaching the destination. Towers can be ungraded once.

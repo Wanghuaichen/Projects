@@ -1,0 +1,1 @@
+A file system using i-node to manage all files. Allowable functionalities are creating, writing, modifying, appending and reading a file. 

@@ -1,0 +1,1 @@
+Using VHDL to implement an Enigma machine to a FPGA board. muitiple key mappings could be selected. Encrytion and decryption can be done in the same deisgn. 

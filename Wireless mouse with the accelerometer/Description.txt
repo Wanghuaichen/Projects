@@ -1,0 +1,1 @@
+Using two ARM cortex4 boards to design a wireless mouse. One board uses its accelerometer (similar to Gyroscopes) and click buttom to control. And another board connect to a PC through USB to forward the descriptor. Two boards are using SPI to control two CC2500 wireless boards to accomplish the wireless communication.  
